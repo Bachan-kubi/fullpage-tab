@@ -15,4 +15,4 @@ function openTab(cityName, ele, color){
     ele.style.backgroundColor = color;
 };
 // get the element with id to make it default open and cliok on it. 
-    document.getElementById('defaultOpen').click();
+document.getElementById('defaultOpen').click();
